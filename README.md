@@ -1,4 +1,4 @@
-🚀 AI-Powered Customer Churn Prediction & Retention System
+# 🚀 AI-Powered Customer Churn Prediction & Retention System
 📌 Project Overview
 
 Built an end-to-end Customer Churn Prediction System using Databricks, PySpark, SQL, Machine Learning, and Power BI.
